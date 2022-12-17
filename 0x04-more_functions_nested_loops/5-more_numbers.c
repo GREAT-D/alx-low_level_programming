@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * more_numbers - print
+ * more_numbers - nmbr fct
+ *
  * Return: no return
  */
 void more_numbers(void)
